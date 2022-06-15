@@ -1,2 +1,2 @@
-# lincense-api-server
+# license-api-server
 API server for a license key generator designed for graduate work
